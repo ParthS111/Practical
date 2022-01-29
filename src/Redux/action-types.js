@@ -1,0 +1,2 @@
+export const FETCH_VIDEO_DATA = 'FETCH_VIDEO_DATA';
+export const SAVE_VIDEO_DATA = 'SAVE_VIDEO_DATA';
